@@ -1,0 +1,127 @@
+web2 css
+<12/1(수)> - 처음부터 다시 공부
+
+1. 생활코딩 - CSS의 개념
+
+ -css가 나오기전에 font 태그로 색깔을 바꾸곤헀다
+   ->현재는 사용 x 
+  -css 사용법
+  -태그안에 style 속성을 넣어서 css 적용 가능
+ -해더 부분에 <style>/<style>태그를 작성하고 안에 적용가능
+ -외부에서 작성(나중에)
+
+ #color : red;  - 글자색깔을 빨간색으로 지정
+ #text-decoration: none;  -  글자에 효과를 전부 없앰
+ #text-decoration: underline - 해당 태그만 밑줄을 지정
+ #font-size : 45px; - 글자색깔은 45px
+ #text-align : center; - 글자 가운데 정렬
+ ex) a{
+            color:black;
+            text-decoration: none;
+        }
+        h1{
+            font-size: 45px;
+            text-align: center;
+        }
+ 
+ - class(그룹핑, 묶다라는 의미도 포함)
+   태그에 class를 주어 css를 적용시키면서 중복을 최소화한다
+ - 명령 우선순위 
+    id선택자 > class선택자 > 태그선택자
+    (id선택자는 포괄적이고 단 한번만 등장 - 중복되어선 안됨)
+ #border-width : 테두리 너비
+ #border-color : 테두리 색깔
+ #border-style : 테두리 선(일반적인선)
+
+ -inline element 
+   a{
+            border-width: 5px;
+            border-color: red;
+            border-style: solid;
+        }
+ -block level element
+    h1, a{
+            border-width: 5px;
+            border-color: red;
+            border-style: solid;
+        }
+ -박스모델
+ #padding : 20px;	- border기준 안쪽 여백
+ #margin : 0px;  	-border기준 바깥족 여백
+
+ #display:block;
+ #width 와 #hi 로 box element 를 조절했으면 box모델 
+  다 이해한거라고 봐도 무방
+
+ ->정리 : 태그 속성에 따라서 화면전체를 쓰기도 하기도 하고
+            자기 크기만큼을 갖기도하는데 화면 전체를 쓰는건  블록
+	자기크기만큼 쓰는건  인라인
+
+ 	컨텐트의 크기 지정은  wwidth와 height 로 지정
+ 	여백은 padding 과 margin 으로 지정
+
+ #border-bottom : 밑줄
+ #border-right : 오른쪽 줄(박스기준)
+ 
+ -그리드 (grid)
+   grid를 사용시 안에 글사이즈에 따라서 크기가 늘어나는것
+ -사용법
+   ex) <div id = grid>
+        <srtyle>
+	    #grid{
+	          border:grid;
+	          grid-template-columns : 150px 1fr;
+	</style>
+
+ -<div>태그와 <span>태그
+   아무의미없는 박스형태의 태그
+ -grid-template-columns : 1fr 1fr
+    전체를 하나로 보고 숫자만큼 나누는거 
+
+-미디어 쿼리
+ >장치 사이즈에 따라 각기 다른 레이아웃을 작성하거나
+  반응형 웹페이지를 작성할떄 사용
+  >css <style>태그 안에 아래와 같이 사용한다
+    @media(min-width:800px){
+	div{
+	   display:none;
+	}
+      }
+   >코드의 재사용
+     css파일을 외부파일로 분리하여 중복을 방지하고 효율적으로 사용
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

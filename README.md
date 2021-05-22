@@ -11,14 +11,14 @@
 - 해당 챕터에선 핵심속성들을 중심으로 보았습니다.
 
 ## 💻학습 완성본(미리보기)
-![캡처1-2](https://user-images.githubusercontent.com/48710889/119211185-91bb8a80-baeb-11eb-9e13-5cf81ea25685.PNG)
+![캡처1-2](https://user-images.githubusercontent.com/48710889/119211640-5ec6c600-baee-11eb-939d-34671a5de4b0.PNG)
 
-![캡처2](https://user-images.githubusercontent.com/48710889/119211192-9da74c80-baeb-11eb-8ac4-52f5e87564c1.PNG)
+![캡처2](https://user-images.githubusercontent.com/48710889/119211650-6ab28800-baee-11eb-823a-7225082a4da6.PNG)
 
-![캡처3-2](https://user-images.githubusercontent.com/48710889/119211229-dd6e3400-baeb-11eb-93aa-270833dff752.PNG)
+![캡처3-2](https://user-images.githubusercontent.com/48710889/119211654-73a35980-baee-11eb-98ba-eac609b65e80.PNG)
 
-![캡처4-0](https://user-images.githubusercontent.com/48710889/119211250-fa0a6c00-baeb-11eb-9220-1caff08c2c19.PNG)
+![캡처4-0](https://user-images.githubusercontent.com/48710889/119211664-7d2cc180-baee-11eb-8bf4-d7c72fbff0d9.PNG)
 
-![캡처4-1](https://user-images.githubusercontent.com/48710889/119211401-d85db480-baec-11eb-8041-0bd20e0be342.PNG)
-![다운로드](https://user-images.githubusercontent.com/48710889/119211411-e4497680-baec-11eb-94ee-a9b681ee0975.png)
-![캡처4-2](https://user-images.githubusercontent.com/48710889/119211412-e4e20d00-baec-11eb-9486-f72d5307b192.PNG)
+![캡처4-1](https://user-images.githubusercontent.com/48710889/119211682-9afa2680-baee-11eb-966f-96e4e91fe253.PNG)
+![다운로드](https://user-images.githubusercontent.com/48710889/119211680-9a619000-baee-11eb-965f-ac826672dc0c.png)
+![캡처4-2](https://user-images.githubusercontent.com/48710889/119211683-9b92bd00-baee-11eb-9a71-023e8b65f708.PNG)
